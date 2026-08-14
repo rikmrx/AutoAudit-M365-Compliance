@@ -27,6 +27,6 @@ I identified that the CIS M365 Benchmark strictly targets cloud tenant infrastru
 *   [`/Control-Mappings/E8_User_App_Hardening_Mapping.pdf`](#) - *My comprehensive technical mapping document detailing the Intune policy paths, Graph API endpoints, and automation feasibility for the Essential Eight ML1 controls.*
 
 ## Skills & Technologies Used
-*   **Frameworks:** ASD Essential Eight, CIS Microsoft 365 Foundations Benchmark, ISO/IEC 27001:2022.
+*   **Frameworks:** ASD Essential Eight, CIS Microsoft 365 Foundations Benchmark.
 *   **Technologies:** Microsoft 365, Microsoft Intune (MDM), Microsoft Graph API.
 *   **Concepts:** Cloud tenant governance, policy mapping, compliance automation, JSON/YAML data structures, Rego policy logic.
